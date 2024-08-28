@@ -155,7 +155,7 @@ For example, `fix typo` or `increase rate limit`. Note: you don't need to commit
 
 #### Step 6
 
-- 🔃 Create a new pull request using <a href="https://github.com/ita-social-projects/Streetcode_Client-Admin.git" target="_blank">*this link*</a>.
+- 🔃 Create a new pull request.
 
 #### Step 7
 
